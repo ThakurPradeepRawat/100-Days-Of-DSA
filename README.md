@@ -22,9 +22,10 @@ Each folder contains:
 
 | Day | Topic | Problem | Language | Status |
 |-----|-------|---------|----------|--------|
-| 1   | Binary Search , Linear Search  | | c++| ✅ |
+| 1   | Binary Search , Linear Search  | c++| ✅ |
 | 2   | Selection Sort | sorting the array or list  | C++ | ✅ |
 | 3   | Bubble Sort  | sorting the array using bubble sort  | c++ |✅ |
+| 4   | Insertion Sort |  
 | ... | ... | ... | ... | ... |
 
 
