@@ -17,6 +17,7 @@ using namespace std;
 void Selection_Sort(int arr[], int size ){
     int min_index;
     int j=0;
+    // Loop through the array to find the lowest value
     while(j<size){
         min_index = j;
         for(int i = j+1 ; i<size ; i++){
